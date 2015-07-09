@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://download.dl.tuyoogame.com/packages/RenWuKe.ipa</string>
+					<string>http://download.dl.quzhuan.me/RenWuKe.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://download.dl.tuyoogame.com/packages/display.png</string>
+					<string>http://download.dl.quzhuan.me/display.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
