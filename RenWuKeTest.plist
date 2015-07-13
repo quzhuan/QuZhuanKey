@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://125.39.218.184/ios/RenWuKeTest.ipa</string>
+					<string>http://140.210.4.87:8080/ios/RenWuKeTest.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://125.39.218.184/ios/display.png</string>
+					<string>http://140.210.4.87:8080/ios/display.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
